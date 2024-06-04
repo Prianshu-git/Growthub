@@ -283,8 +283,8 @@ export const benefits = [
   },
   {
     id: "4",
-    title: "Vishakha Binani",
-    text: "Hey Vishakha here,check out the resources and notes provided by me to ensure you dont miss out on topics.",
+    title: "Ananna Basak",
+    text: "Hey Ananna here,check out the resources and notes provided by me to ensure you dont miss out on topics.",
     backgroundUrl: "./src/assets/benefits/card-5.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
