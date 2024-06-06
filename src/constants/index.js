@@ -274,8 +274,8 @@ export const benefits = [
   },
   {
     id: "3",
-    title: "Apoorva Sharma",
-    text: "Hey Apoorva here,I love building things while learning new paradigms of the software world.Learn and grow with us",
+    title: "Vishakha Binani",
+    text: "Hey Vishakha here,check out the resources and notes provided by me to ensure you dont miss out on topics.",
     backgroundUrl: "./src/assets/benefits/card-4.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
@@ -284,7 +284,7 @@ export const benefits = [
   {
     id: "4",
     title: "Ananna Basak",
-    text: "Hey Ananna here,check out the resources and notes provided by me to ensure you dont miss out on topics.",
+    text: "Hey Ananna here,I love building things while learning new paradigms of the software world.Learn and grow with us",
     backgroundUrl: "./src/assets/benefits/card-5.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
