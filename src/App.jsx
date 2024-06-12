@@ -14,8 +14,13 @@ const App = () => {
       <div className="pt-[4.75rem] lg:pt-[5.25rem] overflow-hidden">
         <Header />
         <Hero />
-        <Benefits />
         <Collaboration />
+        <Services />
+        
+        <Benefits/>
+        <Footer />
+
+        
         
       </div>
 
@@ -23,9 +28,9 @@ const App = () => {
     </>
   );
 };
+/*<Pricing />
+        <Roadmap />*/
 
 export default App;
-/*<Services />
-        <Pricing />
-        <Roadmap />
-        <Footer />*/
+
+       
