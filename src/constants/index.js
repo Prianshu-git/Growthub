@@ -52,8 +52,8 @@ export const navigation = [
   },
   {
     id: "2",
-    title: "How to use",
-    url: "#how-to-use",
+    title: "courses",
+    url: "#courses",
   },
   {
     id: "3",
@@ -70,9 +70,9 @@ export const notificationImages = [notification4, notification3, notification2];
 export const companyLogos = [yourlogo, yourlogo, yourlogo, yourlogo, yourlogo];
 
 export const brainwaveServices = [
-  "Photo generating",
-  "Photo enhance",
-  "Seamless Integration",
+  "AI Algorithms and Models",
+  "Model Development and Training",
+  "Systems Engineering Integration",
 ];
 
 export const brainwaveServicesIcons = [
@@ -249,7 +249,7 @@ export const pricing = [
 export const benefits = [
   {
     id: "0",
-    title: "Prianshu Mukherjee",
+    title: "Prianshu Mukherjee (CEO)",
     text: "Hey Prianshu here,join us on our journey of open source and learning in public and follow the guide so you can get the maximum out of us.",
     backgroundUrl: "./src/assets/benefits/card-1.svg",
     iconUrl: benefitIcon1,
@@ -274,8 +274,8 @@ export const benefits = [
   },
   {
     id: "3",
-    title: "Vishakha Binani",
-    text: "Hey Vishakha here,check out the resources and notes provided by me to ensure you dont miss out on topics.",
+    title: "Ananna Basak",
+    text: "Hey Ananna here,I love building things while learning new paradigms of the software world.Learn and grow with us",
     backgroundUrl: "./src/assets/benefits/card-4.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
@@ -283,8 +283,8 @@ export const benefits = [
   },
   {
     id: "4",
-    title: "Ananna Basak",
-    text: "Hey Ananna here,I love building things while learning new paradigms of the software world.Learn and grow with us",
+    title: "Vishakha Binani",
+    text: "Hey Vishakha here,check out the resources and notes provided by me to ensure you dont miss out on topics.",
     backgroundUrl: "./src/assets/benefits/card-5.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
