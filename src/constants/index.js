@@ -255,23 +255,7 @@ export const benefits = [
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
   },
-  {
-    id: "1",
-    title: "Soumalya Saha",
-    text: "Soumalya here,I am a marketing solutions specialist and an active problem solver, learning and growing through my btech journey in TIU,Check out my gigs at href",
-    backgroundUrl: "./src/assets/benefits/card-2.svg",
-    iconUrl: benefitIcon1,
-    imageUrl: benefitImage2,
-    light: true,
-  },
-  {
-    id: "2",
-    title: "Amit Verma",
-    text: "Hey Amit here,I love solving problem be it real world or programming,follow our socials and keep growing",
-    backgroundUrl: "./src/assets/benefits/card-3.svg",
-    iconUrl: benefitIcon1,
-    imageUrl: benefitImage2,
-  },
+  
   {
     id: "3",
     title: "Ananna Basak",
@@ -280,22 +264,6 @@ export const benefits = [
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
     light: true,
-  },
-  {
-    id: "4",
-    title: "Vishakha Binani",
-    text: "Hey Vishakha here,check out the resources and notes provided by me to ensure you dont miss out on topics.",
-    backgroundUrl: "./src/assets/benefits/card-5.svg",
-    iconUrl: benefitIcon1,
-    imageUrl: benefitImage2,
-  },
-  {
-    id: "5",
-    title: "Ankush",
-    text: "Hey Ankush here,Learn the networking basics with the roadmap I followed to minimise friction in your journey to mastering linux.",
-    backgroundUrl: "./src/assets/benefits/card-6.svg",
-    iconUrl: benefitIcon1,
-    imageUrl: benefitImage2,
   },
 ];
 
